@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Deployed the site at : 
+* [x] Deployed the site at : https://project4-orpin.vercel.app/
 
 ## Video Walkthrough
 
